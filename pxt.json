@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "maqueenPlusV2": "github:OleMchls/pxt-DFRobot_MaqueenPlus_v20#patch-1"
+        "maqueenPlusV2": "github:OleMchls/pxt-DFRobot_MaqueenPlus_v20"
     },
     "files": [
         "main.blocks",
